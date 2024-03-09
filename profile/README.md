@@ -1,7 +1,9 @@
 <h1 align="center" >
 <a href="https://github.com/umroboporaluno">
+
+<img src="https://github.com/umroboporaluno/.github/blob/main/profile/ura-logo.png" alt="URA Logo" width="100" />
+<br>
 Um robô por aluno (URA)
-<img src="https://github.com/umroboporaluno/.github/blob/main/profile/ura-logo.png" alt="URA Logo" width="50" />
 </a></h1>
 
 <p align="center">
