@@ -4,9 +4,9 @@ Um robô por aluno (URA)
 <img src="https://github.com/umroboporaluno/.github/blob/main/profile/ura-logo.png" alt="URA Logo" width="50" />
 </a></h1>
 
-# Um robô por aluno (URA)
-
+<p align="center">
 Uma organização da UFRN que promove a robótica educacional pelo mundo.
+</p>
 
 ## Sobre
 
